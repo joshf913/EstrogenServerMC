@@ -1,4 +1,0 @@
-Minecraft Server
-192.168.8.10:25568
-Minecraft Server
-estrogen.fosness.top
