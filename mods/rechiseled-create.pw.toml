@@ -1,0 +1,13 @@
+name = "Rechiseled: Create"
+filename = "rechiseledcreate-1.1.0-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d10df326e1a0713ad16a900071d0da6930cb4705"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7522503
+project-id = 888624

@@ -1,0 +1,13 @@
+name = "L's Backport Paintings 1.21"
+filename = "Leon's Backport Paintings 2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1efbe70e2f3b78c140c4606da4c9c52b6748b71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5523617
+project-id = 1014226

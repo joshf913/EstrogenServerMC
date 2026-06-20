@@ -1,0 +1,13 @@
+name = "Gen's Recipes Plus"
+filename = "recipes-plus-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "871e6e654a39496cdf90dd64938cfe620a21e748"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5763041
+project-id = 1032219

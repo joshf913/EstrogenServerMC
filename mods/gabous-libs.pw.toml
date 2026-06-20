@@ -1,0 +1,13 @@
+name = "Gabou's Libs"
+filename = "gaboulibs-fabric-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08f3d302755d2f7dc9cc6f85fe531487e90fda7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8237903
+project-id = 1367332

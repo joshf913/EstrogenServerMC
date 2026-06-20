@@ -1,0 +1,13 @@
+name = "Weather Refined"
+filename = "WeatherRefind-fabric-1.20.x-v1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efb50e7e9ff0d5a2808964fad2a61c36d4856d64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7984876
+project-id = 1500089

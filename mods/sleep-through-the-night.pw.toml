@@ -1,0 +1,13 @@
+name = "Sleep Through The Night"
+filename = "sttn-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3aecd6c13b579884068ad475b09ecc8356d50965"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8047677
+project-id = 1530334

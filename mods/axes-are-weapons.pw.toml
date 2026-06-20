@@ -1,0 +1,13 @@
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.10.2-fabric-1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9158d15cabed11698ad74e6736a40de8c291baba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8110701
+project-id = 456457

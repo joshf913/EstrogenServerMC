@@ -1,0 +1,13 @@
+name = "Antique Atlas 4"
+filename = "antique-atlas-3.1.2+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0416003351b48bb2d39d1d2c1afde9780796ee12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7420252
+project-id = 1391589

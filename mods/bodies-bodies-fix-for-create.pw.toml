@@ -1,0 +1,13 @@
+name = "Bodies Bodies Fix for Create"
+filename = "bodies-bodies-fix-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WrJYCAvf/versions/MK6SXnnr/bodies-bodies-fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "80495485dc557a0f76409ddd6c78a5f6e3baeaa7ccef46dbb4f76392f330a529b1c0f0ca593a3153a270401c42488f64566cf38ab2e0c5d57f416a72603994d9"
+
+[update]
+[update.modrinth]
+mod-id = "WrJYCAvf"
+version = "MK6SXnnr"
