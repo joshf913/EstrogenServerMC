@@ -1064,11 +1064,6 @@ hash = "fc2a0a447002aebac52e5eb6b33f6aaa7662c99d682e6c1b6fd3af940caf5ca6"
 metafile = true
 
 [[files]]
-file = "mods/bodies-bodies-fix-for-create.pw.toml"
-hash = "3811afec91e44fed4dd4e993fe4e23bc3ccde48e8a1539521d606e5463f18f99"
-metafile = true
-
-[[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "a9571b30130039d22f07c413dc646becbd1dd6542a37d467d9c046a2f20c908e"
 metafile = true
