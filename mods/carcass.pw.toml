@@ -1,0 +1,13 @@
+name = "Carcass"
+filename = "carcass-1.20.1-0.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vttoYT4s/versions/BgClNVKZ/carcass-1.20.1-0.4.3.jar"
+hash-format = "sha512"
+hash = "2c9b65e5d1a0c5be6c31a7045604ce7dde53844bd11af7d744edb281668ea0fbabe3a8d7c4f2d0f1232abacc0d0331c5b01f91113a54dde28ebe257026771f23"
+
+[update]
+[update.modrinth]
+mod-id = "vttoYT4s"
+version = "BgClNVKZ"

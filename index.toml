@@ -1069,11 +1069,6 @@ hash = "3811afec91e44fed4dd4e993fe4e23bc3ccde48e8a1539521d606e5463f18f99"
 metafile = true
 
 [[files]]
-file = "mods/bodies-bodies.pw.toml"
-hash = "2c980be6046f210ebfcf09c4644592d215a6e61a04c08850b3eb7170222288f3"
-metafile = true
-
-[[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "a9571b30130039d22f07c413dc646becbd1dd6542a37d467d9c046a2f20c908e"
 metafile = true
@@ -1086,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "7a8e91d65a6a8c5a025cca52c8e33630c9f1f6dfbcec9ff9977b2fae3aad7a35"
+metafile = true
+
+[[files]]
+file = "mods/carcass.pw.toml"
+hash = "405dfd14ea2e5630b9bc1749cf53efe63b07c809abffe2e921dfda47dffbd614"
 metafile = true
 
 [[files]]
@@ -1285,12 +1285,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+hash = "ec903f0e7f34dc559acd4709abfd2edab1705984989c5227e6b2463d6d80e0ae"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "69c0b14fe1ceb54fc531c65d527de02d3a1bc51505b71a7346bdd548e00379bf"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -1374,6 +1374,11 @@ hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
 metafile = true
@@ -1381,6 +1386,11 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "e5bd4b34bc3b430920b3a73da52b4ab76e51c67d1e2f7c710f05b68047135c01"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
@@ -1414,6 +1424,11 @@ hash = "850a6c8c723db30523c07fc87230c391fdb1e456a862d09575e373cc285bb16a"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
@@ -1426,6 +1441,11 @@ metafile = true
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "1fb2f2671a461c6cb1aefeca5e5f485d0e6e20c4fece05afaec937f5fc9ebafb"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "a71cd857a0144cbbdea9191a3cce161815f87dbdea8a8e0b3a1839a3092c5773"
 metafile = true
 
 [[files]]
@@ -1561,6 +1581,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ead2bfc6e6fa3d1f1d82a7f4968ab2c8a712866d635d1875f02936f9ad8aef02"
+metafile = true
+
+[[files]]
+file = "mods/question-ducks-ambient-fireflies.pw.toml"
+hash = "34d3343ce70313217ec3d08ae3bd29a5904933b01795d3d2af6f23ca3056c298"
 metafile = true
 
 [[files]]
@@ -1741,6 +1766,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]
