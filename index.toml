@@ -1084,11 +1084,6 @@ hash = "7a8e91d65a6a8c5a025cca52c8e33630c9f1f6dfbcec9ff9977b2fae3aad7a35"
 metafile = true
 
 [[files]]
-file = "mods/carcass.pw.toml"
-hash = "405dfd14ea2e5630b9bc1749cf53efe63b07c809abffe2e921dfda47dffbd614"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "229dfd464e2b0cc313cea20c81d4b67f2426a0677ad833c2de814143aacde6d1"
 metafile = true
@@ -1100,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -1285,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ec903f0e7f34dc559acd4709abfd2edab1705984989c5227e6b2463d6d80e0ae"
+hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
 metafile = true
 
 [[files]]
@@ -1786,6 +1781,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "eac5d5405a7020336980c31c15aab41e0a8fd6881f53deca8ad07c247e968206"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
