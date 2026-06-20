@@ -1802,7 +1802,3 @@ metafile = true
 file = "mods/yungs-better-caves-fabric.pw.toml"
 hash = "9592e8c5b7b2437995dee44152ffbe4453253e340d86841d72d3c2b30e9ddcdb"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "1fbc4cfda50b6283e5c9e907853a5733f8944b76bc778ca4b9e815224704a0dc"
