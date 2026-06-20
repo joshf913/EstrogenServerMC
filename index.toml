@@ -1549,11 +1549,6 @@ hash = "c5fb0b6a5be045f581c5b967253dc44800962c2ccaf464ef66c727177ef38e58"
 metafile = true
 
 [[files]]
-file = "mods/paintings-1-21-backport.pw.toml"
-hash = "d3b24142d76734e7a0304d69b427a0c9462f0adb482f2b9d56b500a65ec88cc4"
-metafile = true
-
-[[files]]
 file = "mods/pale-garden-backport.pw.toml"
 hash = "0f511f4db1ca3fc0aa0a18e2bd8271867857a67187678ebe7bd0a44fd0a88281"
 metafile = true
