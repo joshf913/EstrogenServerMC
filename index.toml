@@ -5,6 +5,22 @@ file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
 [[files]]
+file = "config/ModernUI/bootstrap.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "01733e4f3c576b2a05ef501937038a5a5409ec472268528671b20beb07a262e9"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "5faff1bf3ca3f9f3352c907c3862890d09934a85422405214b6cfc28fff971a7"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "48c3b53b3a5c212b079d2208f6d2973be0d16b2e8121ddebbf15bf199ec73b72"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "310821d2680bf64dc945312c6ac00ee65ff59b9eb066f40bcab7e3171bfc6684"
 
@@ -23,6 +39,14 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 [[files]]
 file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
+hash = "7cc45d7092fbadbcf0bab0b382995295b0f18acccd8dcfe595405ef5a081f5bb"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "1c40c238543a2aeb70f92a8fc9f5ea9856e93e7a069ab2148a792ef96a817985"
 
 [[files]]
 file = "config/patpat/ignore_mob_list.txt"
@@ -47,6 +71,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/patpat/proximity_packet_servers_whitelist.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "0ecb99b3b1e953da8ae98a73a99b3abae1fb1fea656c014b63e1cf9df9ad61ee"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
