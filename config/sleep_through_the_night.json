@@ -1,0 +1,11 @@
+{
+  "fadeInSeconds": 2,
+  "fadeOutSeconds": 2,
+  "sleepingText": "You\u0027re sleeping through the night...",
+  "dayText": "Day No. ",
+  "soundVolume": 1.0,
+  "soundPitch": 1.0,
+  "enableOverlay": true,
+  "enableCameraTilt": true,
+  "enableSound": true
+}

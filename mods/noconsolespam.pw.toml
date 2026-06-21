@@ -1,6 +1,6 @@
 name = "NoConsoleSpam"
 filename = "noconsolespam-1.4.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/c4YY0EJn/versions/wI09N20E/noconsolespam-1.4.1.jar"

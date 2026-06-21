@@ -1,0 +1,13 @@
+name = "Flower Mimics"
+filename = "flowermimics-1.20.1-2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1r5vvCad/versions/QcOJuorE/flowermimics-1.20.1-2.1.jar"
+hash-format = "sha512"
+hash = "b6ea0926c2c62f840d2d0bffc30c5802ac36b82aa6fe72d05e26d0adee621984e9cf7d6676667c8ae553132cfd24be1a3f1aeb6ec960d2a6c1a709fcbac41dcb"
+
+[update]
+[update.modrinth]
+mod-id = "1r5vvCad"
+version = "QcOJuorE"

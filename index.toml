@@ -41,12 +41,28 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/NoConsoleSpam/spamfilters.json"
+hash = "9ecda972db73fc3d93129c77a97768cbbea553f547cdda33e613276eaec6d193"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "613559a22137e64e2b2da99abba85e2a372c1192fa1956f6b072540058c60021"
+
+[[files]]
+file = "config/flowermimics.json5"
+hash = "42f1d08a1c1cf139b803f07392d4f76d34315dcce5018dbdd0d28cb2ee8e9ae8"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "2d5acad39273dda0340ecd5cd95ae802932721af191b6c2dfd7d02ea0d0bfd74"
+
+[[files]]
 file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
 hash = "7cc45d7092fbadbcf0bab0b382995295b0f18acccd8dcfe595405ef5a081f5bb"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "1c40c238543a2aeb70f92a8fc9f5ea9856e93e7a069ab2148a792ef96a817985"
+hash = "a3aba9f8dda256ec5d019db8b795d4b66767dc5e1c9ce239e4165cbacd345538"
 
 [[files]]
 file = "config/patpat/ignore_mob_list.txt"
@@ -73,8 +89,28 @@ file = "config/patpat/proximity_packet_servers_whitelist.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/sleep_through_the_night.json"
+hash = "5da96213ad63e28748bc537b4780409b542466c250745ed23f98cbfa8bddf4e7"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "0ecb99b3b1e953da8ae98a73a99b3abae1fb1fea656c014b63e1cf9df9ad61ee"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "cffe7bc41640db1d166183d58df125f62645985b881d57657a9c0ddf4b45c324"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "47e0682e3e8eae70ac228f95c3b6668e2efff16f7837bffee210a0a7d849b8f2"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -214,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "0beec32ebaa9aed29579b56b985f954c3547d00e8074dc87fbec0b7bb4aff701"
 metafile = true
 
 [[files]]
@@ -457,6 +498,11 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
+file = "mods/flower-mimics.pw.toml"
+hash = "c62710154e475695c601c673c42bf22018457a2fac16f48465c0d292f06f4c71"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
@@ -562,6 +608,11 @@ hash = "850a6c8c723db30523c07fc87230c391fdb1e456a862d09575e373cc285bb16a"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
@@ -574,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "cf2edd36468834419c61a577760c89ba7b582039c6191bd9b24e25d371dd3a8e"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "b42622e3f22f315c30d843e874a2d91d9379ceb5e19861c5393552ecacc42753"
 metafile = true
 
 [[files]]
@@ -652,6 +708,11 @@ hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
 metafile = true
 
 [[files]]
+file = "mods/murk.pw.toml"
+hash = "cd825fa09cdd22fc44fc8a3bf50bc824041b8e263f6837ec5b0e01350c960569"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
 metafile = true
@@ -673,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/noconsolespam.pw.toml"
-hash = "e24856dcc6c2320ec06df186b40dc1b345d7ce06c5adb0a8b3ea4785e662fff5"
+hash = "5b6c8fb856863f6fc0a6ba364d03ba4a7fc828d93c1e03a0e79358376a725c61"
 metafile = true
 
 [[files]]
@@ -743,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ead2bfc6e6fa3d1f1d82a7f4968ab2c8a712866d635d1875f02936f9ad8aef02"
+hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
@@ -799,6 +860,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bd7d696be623db6fbc8030b8afbdf933414394877cfffc145b5860d100f22920"
+metafile = true
+
+[[files]]
+file = "mods/simplest-broadaxes.pw.toml"
+hash = "dafd8dcc0d355c38a28d571b4bd58276e928f4722065b71fd71c142a0a8e486f"
 metafile = true
 
 [[files]]
@@ -934,11 +1000,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
-metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]

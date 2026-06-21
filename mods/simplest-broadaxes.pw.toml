@@ -1,0 +1,13 @@
+name = "Simplest Broadaxes"
+filename = "simplest_broadaxes-1.20.1-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cH7mMfnv/versions/at1CbVEt/simplest_broadaxes-1.20.1-fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "72de648e890a3ab4acda12505268d97ea4da7c17db5998905bfb962e611dd48edeeb0a629cb8a0348125623d23dba443f6b05065ea4eef1e0ee8e96772059431"
+
+[update]
+[update.modrinth]
+mod-id = "cH7mMfnv"
+version = "at1CbVEt"
