@@ -1,0 +1,13 @@
+name = "Ecologics"
+filename = "ecologics-fabric-1.20.1-2.2.6_1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCKpPR0Z/versions/H20oKKk9/ecologics-fabric-1.20.1-2.2.6_1.jar"
+hash-format = "sha512"
+hash = "02b390ed5321d9b59dfd6f04d58e2642fa1c8fa760428ea108377a38b69d4c5a5bca57b4d4818bff5c3a8928af06a39908a0d65a39267d79cf60c470e66d63b8"
+
+[update]
+[update.modrinth]
+mod-id = "NCKpPR0Z"
+version = "H20oKKk9"

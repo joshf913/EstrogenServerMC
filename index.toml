@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -1196,6 +1196,11 @@ hash = "be8c9e43f4ab45ecc5a1dab185515785b9c2a50b18d6520fd10ac02785bdaa2a"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "c042c8372e4ce2bc4aa4e54d8ddb54f7fbc4ae68a3916b7a20216d2ae1692282"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "8a0ca848c88fe0f399a0e733aea47fbdde3e5ab4a3cdda8fff7f70e16fdbb420"
 metafile = true
@@ -1221,6 +1226,11 @@ hash = "d5141803f665e0525f4da5612b9bafe9c0b3f749104eeb0ed0abde83a60050d8"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "c7351890b58df4ad8a64d05ff7b417a458dc66ba916cf88b10b634f753b0ae38"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "e2924590dbc3509e3b904840f1afd3667f7aacb7fe713c4da8df7c38448b43e5"
 metafile = true
@@ -1228,6 +1238,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "5d01b272a43cf490d673ae9179bff0afd740b7b3884eb64be587fd7e8e0f4133"
+metafile = true
+
+[[files]]
+file = "mods/earth2java.pw.toml"
+hash = "3115f8d5f7d208e74abf463cb70ccf16d1c2ccd46cbdd9b8a34f1a1b14792457"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "85ac31ce20893fa67e3d05939980e08555081c0055da725b38a50f4e51215965"
 metafile = true
 
 [[files]]
@@ -1322,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "41e9f75d394fe0f4c62061618748d9393058d27f138de188d21c9341d8cf5137"
+hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
@@ -1451,6 +1471,11 @@ hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
 
 [[files]]
+file = "mods/mobs-attempt-parkour.pw.toml"
+hash = "184c352827597c6136bf4783845f0f8434f4b3cdb578db6527e65580f05dd36f"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "bf637761441cee7d1e7a2dd33c40079e7bbced018308a3ce223b6267816e60ba"
 metafile = true
@@ -1471,6 +1496,11 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "cf9ae5744c15746a004a660dcdb120e8b81a70b56e3d55ce4d1781d494a2fc58"
 metafile = true
@@ -1483,6 +1513,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
+metafile = true
+
+[[files]]
+file = "mods/naturally-trimmed.pw.toml"
+hash = "58db166da0198422534ade08333a7ac7effbc646151696dc018f51ff6aa0e62f"
 metafile = true
 
 [[files]]
@@ -1546,6 +1586,11 @@ hash = "63d3a200569a1f9ab3bb8c7cc893f8a82e279141f6691765290e48fb75976150"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "096b706a9018fe826ca276bf682003b3159de6cc8c130170d7d6c884d5df663c"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "91a34cb72ff22aaf1e12d1741782b73af9ad179255d9156b7c2c7a5f878ba1ce"
 metafile = true
@@ -1588,6 +1633,11 @@ metafile = true
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "7fcbd045b6d0d5ab39c0502f7f322e8cbc788724e247548722ff818e3e7d646f"
+metafile = true
+
+[[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "86dd30664de6dd1d53e9ecec18ea7c3feb0b8b1e4862616af6fa5207a528c694"
 metafile = true
 
 [[files]]
@@ -1648,6 +1698,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f99dacae134534a8ee4abbe14d02749e2028a25a00b9f87b4c46543e9c66f9f0"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "463aba1cd986ba8d86c635fb85a15deb680fcf67e0fdfb6ab6b3444d16894258"
+metafile = true
+
+[[files]]
+file = "mods/species.pw.toml"
+hash = "79aba0b0959ee91717f230e040ff2d987f7a217c561f36911b0d2de98bb0a50f"
 metafile = true
 
 [[files]]
