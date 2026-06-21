@@ -774,11 +774,6 @@ hash = "bd7d696be623db6fbc8030b8afbdf933414394877cfffc145b5860d100f22920"
 metafile = true
 
 [[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "2513244ea2b0b1d177ebdf25ab04ff047496d1cabbea34ebc3fc8a8fd4c86cab"
-metafile = true
-
-[[files]]
 file = "mods/sleep-through-the-night.pw.toml"
 hash = "31687696fa7a065adc53e91c5ba9afc6442cfbf9c3aa0e6064352dc8f73906ef"
 metafile = true
