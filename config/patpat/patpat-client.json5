@@ -17,7 +17,7 @@
     "listMode": "DISABLED"
   },
   "proximityPackets": {
-    "proximityPacketsEnabled": false,
+    "proximityPacketsEnabled": true,
     "maxPacketsPerSecond": 5,
     "isBlacklist": false
   },
