@@ -508,6 +508,11 @@ hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
+file = "mods/fuji.pw.toml"
+hash = "086982f47556d83d3768f1e55fba63635560ba975a25995bfcfaea9681da543e"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3afb08b984c2de651ad7849e9c40270e20fb1ea4eaa8d72698b9eeaf710e0019"
 metafile = true
