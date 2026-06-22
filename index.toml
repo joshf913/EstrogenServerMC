@@ -54,7 +54,7 @@ hash = "42f1d08a1c1cf139b803f07392d4f76d34315dcce5018dbdd0d28cb2ee8e9ae8"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2d5acad39273dda0340ecd5cd95ae802932721af191b6c2dfd7d02ea0d0bfd74"
+hash = "009d36524dae0a3e7aa4143105c11e26849ca81f0904e41a134bc990722e4f53"
 
 [[files]]
 file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
@@ -555,11 +555,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
 metafile = true
 
 [[files]]
