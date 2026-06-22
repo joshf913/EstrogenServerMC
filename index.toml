@@ -42,11 +42,11 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/NoConsoleSpam/spamfilters.json"
-hash = "9ecda972db73fc3d93129c77a97768cbbea553f547cdda33e613276eaec6d193"
+hash = "9f7a53a0f2ee32ae87900c17a40f68c3bf8512faec06c86c170a2d377bb0aa58"
 
 [[files]]
 file = "config/betterdays-common.toml"
-hash = "613559a22137e64e2b2da99abba85e2a372c1192fa1956f6b072540058c60021"
+hash = "0b2431db3cb298f65bc4f627a062b07dbaaf7d179bbb9fa0ee9ba24130ca34aa"
 
 [[files]]
 file = "config/flowermimics.json5"

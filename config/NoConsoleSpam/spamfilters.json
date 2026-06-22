@@ -11,6 +11,8 @@
     ".*Incorrect key.*",
     ".*is not correct. Correcting.*",
     ".*in the specified shader program..*",
+    ".*Loaded config for:*",
+    ".*Reloading server config for*",
     ".*Parsing error loading recipe.*"
   ],
   "ignoredLoggers": [
