@@ -62,7 +62,7 @@ hash = "7cc45d7092fbadbcf0bab0b382995295b0f18acccd8dcfe595405ef5a081f5bb"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "a3aba9f8dda256ec5d019db8b795d4b66767dc5e1c9ce239e4165cbacd345538"
+hash = "6b3af7a0c5407c26b936acb7821bf9212b6b2999c2ff1bc8248d6d3a27367b13"
 
 [[files]]
 file = "config/patpat/ignore_mob_list.txt"

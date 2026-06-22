@@ -652,7 +652,7 @@
     "oldVerticalBobbing": true,
     "oldCreativeCrouch": true,
     "oldRandomDamage": true,
-    "oldSneaking": true,
+    "oldSneaking": false,
     "preventDeathTopple": true
   },
   "swing": {
