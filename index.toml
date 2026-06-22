@@ -628,11 +628,6 @@ hash = "cf2edd36468834419c61a577760c89ba7b582039c6191bd9b24e25d371dd3a8e"
 metafile = true
 
 [[files]]
-file = "mods/lodestonelib.pw.toml"
-hash = "b42622e3f22f315c30d843e874a2d91d9379ceb5e19861c5393552ecacc42753"
-metafile = true
-
-[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "1fb2f2671a461c6cb1aefeca5e5f485d0e6e20c4fece05afaec937f5fc9ebafb"
 metafile = true
@@ -705,11 +700,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
-metafile = true
-
-[[files]]
-file = "mods/murk.pw.toml"
-hash = "cd825fa09cdd22fc44fc8a3bf50bc824041b8e263f6837ec5b0e01350c960569"
 metafile = true
 
 [[files]]
