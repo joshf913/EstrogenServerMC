@@ -218,11 +218,6 @@ hash = "fc2a0a447002aebac52e5eb6b33f6aaa7662c99d682e6c1b6fd3af940caf5ca6"
 metafile = true
 
 [[files]]
-file = "mods/birds-boids-addon.pw.toml"
-hash = "caabc02086bb50b541689fff07e517f2838f1283265a4711be1f087898c2e714"
-metafile = true
-
-[[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "a9571b30130039d22f07c413dc646becbd1dd6542a37d467d9c046a2f20c908e"
 metafile = true
