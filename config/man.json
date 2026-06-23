@@ -7,12 +7,12 @@
   "climbing": true,
   "vanish_distance": 30,
   "spawn_at_day": false,
-  "darkness_effect": true,
+  "darkness_effect": false,
   "all_dimensions": false,
   "break_blocks": false,
-  "darkness_effect_duration": 6,
-  "litghtnings": true,
+  "darkness_effect_duration": 0,
+  "litghtnings": false,
   "spawn_sounds": true,
-  "stage1_spawn_rate": 600,
-  "stage2_spawn_rate": 900
+  "stage1_spawn_rate": 300,
+  "stage2_spawn_rate": 500
 }

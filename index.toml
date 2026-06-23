@@ -50,7 +50,7 @@ hash = "0b2431db3cb298f65bc4f627a062b07dbaaf7d179bbb9fa0ee9ba24130ca34aa"
 
 [[files]]
 file = "config/cave_dweller.properties"
-hash = "5742d4cc6481d2a27090ab3ce140fdc2c86c713f80e3fee1948f745da6544a02"
+hash = "c61697315aaf94697f4ac67f9e00c47a2e8254dcf9c75a114938dd16141197c0"
 
 [[files]]
 file = "config/flowermimics.json5"
@@ -62,7 +62,7 @@ hash = "009d36524dae0a3e7aa4143105c11e26849ca81f0904e41a134bc990722e4f53"
 
 [[files]]
 file = "config/man.json"
-hash = "06d560cb232675f0a83793eed2c7d46096e9456c492e997934b2c92ecddcb4bf"
+hash = "7d7690765c6dacdf57971c454244dc57caffa0cfc769e2bcadcb954019b37a75"
 
 [[files]]
 file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
@@ -97,10 +97,6 @@ file = "config/patpat/proximity_packet_servers_whitelist.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/rainstalker-reborn.json"
-hash = "a51f83b176c5d83b855ee2dd0a2327478e8687fd8aa8205a0efb0bddd02c0305"
-
-[[files]]
 file = "config/sleep_through_the_night.json"
 hash = "5da96213ad63e28748bc537b4780409b542466c250745ed23f98cbfa8bddf4e7"
 
@@ -127,10 +123,6 @@ hash = "47e0682e3e8eae70ac228f95c3b6668e2efff16f7837bffee210a0a7d849b8f2"
 [[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "dcbbfd9a7aa8da6cb0198784922a55828307f3b8a3ed2e97de0baa6fd99f79d6"
-
-[[files]]
-file = "config/thinair-server.toml"
-hash = "bcf5993eaed58448d669caacf5a6d166621f4831b872ede348ae554bb0fc72bc"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -998,16 +990,6 @@ metafile = true
 [[files]]
 file = "mods/the-man-from-the-fog-fabric.pw.toml"
 hash = "deb57400bbf420f5c08198a75ded1a3f6418cbe5ca3e1fd1584d759efe019c1d"
-metafile = true
-
-[[files]]
-file = "mods/the-rainstalker.pw.toml"
-hash = "3afc28e63c7013483f5402b618f313ba619cef894ad62efd1c382884aa4b16d9"
-metafile = true
-
-[[files]]
-file = "mods/thin-air.pw.toml"
-hash = "4c8b89db877156b4a95fddf17c798ccaae9a40c15b1633226b5902babed7e1bc"
 metafile = true
 
 [[files]]
