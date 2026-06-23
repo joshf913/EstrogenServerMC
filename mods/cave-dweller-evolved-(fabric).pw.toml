@@ -1,0 +1,13 @@
+name = "Cave Dweller Evolved (Fabric)"
+filename = "cave_dweller-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MXnT4UYG/versions/EU89guLn/cave_dweller-1.20.1.jar"
+hash-format = "sha512"
+hash = "1ceb1d69a0c59e38731bcfdefb9e752bb3f22457cd8637a41253f10e1cb0b25f05ae9dac6e6ec17ae446452cd86157102d601ecef2c473c2040ee7e4c82d0604"
+
+[update]
+[update.modrinth]
+mod-id = "MXnT4UYG"
+version = "EU89guLn"

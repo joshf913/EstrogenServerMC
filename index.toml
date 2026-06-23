@@ -178,6 +178,11 @@ hash = "ed4d28a5a76f85d45a1bdaeab40828f524199e41541f4504ca4719f373bb5c05"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "1f7a9a0f8b6a52474771cc7b680821291625572e00d72a351f20b732f51bd922"
+metafile = true
+
+[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "b8b207fa36dafa9a7ecf0037014db456ba9279119b190e638ae52783783384d1"
 metafile = true
@@ -213,6 +218,11 @@ hash = "fc2a0a447002aebac52e5eb6b33f6aaa7662c99d682e6c1b6fd3af940caf5ca6"
 metafile = true
 
 [[files]]
+file = "mods/birds-boids-addon.pw.toml"
+hash = "caabc02086bb50b541689fff07e517f2838f1283265a4711be1f087898c2e714"
+metafile = true
+
+[[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "a9571b30130039d22f07c413dc646becbd1dd6542a37d467d9c046a2f20c908e"
 metafile = true
@@ -225,6 +235,16 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "7a8e91d65a6a8c5a025cca52c8e33630c9f1f6dfbcec9ff9977b2fae3aad7a35"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "67ab8d43b45dbf8e2737717a38043f4e8da41ebb4891a278c639f27e07eab409"
+metafile = true
+
+[[files]]
+file = "mods/cave-dweller-evolved-(fabric).pw.toml"
+hash = "1b009c24163207bef5271cb08d42cafa808f375bf31cc46985ea064f2cd83b21"
 metafile = true
 
 [[files]]
@@ -309,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
@@ -380,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere-fabric.pw.toml"
 hash = "fe13c35c779b5b8bce9c5e41d60a3ffdb8578e62857dab61afa71e376f901b4d"
+metafile = true
+
+[[files]]
+file = "mods/dark-waters.pw.toml"
+hash = "da30a288d8ed0b4d3564dc3ddc6a988cfa7b3d7362edc9b50a2bd114ac8007d0"
 metafile = true
 
 [[files]]
@@ -713,6 +738,11 @@ hash = "58db166da0198422534ade08333a7ac7effbc646151696dc018f51ff6aa0e62f"
 metafile = true
 
 [[files]]
+file = "mods/neutral-animals.pw.toml"
+hash = "1b45e8ac17c7d5608f103e9417acc2adca06c8dc15919f4d271299cce58955ad"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
@@ -740,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "c9f99ca6c6db28a5788cc556c39886b55433c93aa66a45b57de0ccf075bb66ad"
 metafile = true
 
 [[files]]
@@ -863,6 +898,11 @@ hash = "31687696fa7a065adc53e91c5ba9afc6442cfbf9c3aa0e6064352dc8f73906ef"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "74cf81cd71073f5e4a31ceded3dc5c6220d80bcc25e15f371738b9d720c5a30c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7e247fc51fae1fdaf7cca7a94f7222341d6673b68941a933adafaa4b921ec2b2"
 metafile = true
@@ -943,6 +983,21 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/the-man-from-the-fog-fabric.pw.toml"
+hash = "deb57400bbf420f5c08198a75ded1a3f6418cbe5ca3e1fd1584d759efe019c1d"
+metafile = true
+
+[[files]]
+file = "mods/the-rainstalker.pw.toml"
+hash = "3afc28e63c7013483f5402b618f313ba619cef894ad62efd1c382884aa4b16d9"
+metafile = true
+
+[[files]]
+file = "mods/thin-air.pw.toml"
+hash = "4c8b89db877156b4a95fddf17c798ccaae9a40c15b1633226b5902babed7e1bc"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
 metafile = true
@@ -993,6 +1048,11 @@ hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "e9da96873eddb505008e8eac8f77052c31e92949808822e0be825610de1e7935"
+metafile = true
+
+[[files]]
 file = "mods/weaponsexpanded.pw.toml"
 hash = "fcea2b77af3ec70a323a3067fa8a3356f982ef7fffa94c0863c92d4085d24d71"
 metafile = true
@@ -1000,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/weather-refined.pw.toml"
 hash = "d9a3f869f3012ff0c87fe111d22fb269265a204c4ebb441715137176bdc3b385"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels.pw.toml"
+hash = "720d031a174fe71d6ec3d35d21896dfdace9c6f2e59bbf4aa8ff4f4c7f5457b1"
 metafile = true
 
 [[files]]
@@ -1030,4 +1095,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-caves-fabric.pw.toml"
 hash = "9592e8c5b7b2437995dee44152ffbe4453253e340d86841d72d3c2b30e9ddcdb"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "d7651d3c0b4223a2df4af7d72636e7bf80c558dc351065c7431db4147c215ab4"
 metafile = true

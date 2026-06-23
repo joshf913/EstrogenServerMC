@@ -1,0 +1,13 @@
+name = "The Rainstalker (DWELLER)"
+filename = "the-rainstalker-1.0.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58e676936036f57f29f4740b85cb9322de4460a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8229614
+project-id = 1570036
