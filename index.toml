@@ -49,6 +49,10 @@ file = "config/betterdays-common.toml"
 hash = "0b2431db3cb298f65bc4f627a062b07dbaaf7d179bbb9fa0ee9ba24130ca34aa"
 
 [[files]]
+file = "config/cave_dweller.properties"
+hash = "5742d4cc6481d2a27090ab3ce140fdc2c86c713f80e3fee1948f745da6544a02"
+
+[[files]]
 file = "config/flowermimics.json5"
 hash = "42f1d08a1c1cf139b803f07392d4f76d34315dcce5018dbdd0d28cb2ee8e9ae8"
 
@@ -57,12 +61,16 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "009d36524dae0a3e7aa4143105c11e26849ca81f0904e41a134bc990722e4f53"
 
 [[files]]
+file = "config/man.json"
+hash = "06d560cb232675f0a83793eed2c7d46096e9456c492e997934b2c92ecddcb4bf"
+
+[[files]]
 file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
 hash = "7cc45d7092fbadbcf0bab0b382995295b0f18acccd8dcfe595405ef5a081f5bb"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "6b3af7a0c5407c26b936acb7821bf9212b6b2999c2ff1bc8248d6d3a27367b13"
+hash = "5fc25712f91caebc4ce3216524ff38e6951c764df4e2048a9084122299627a67"
 
 [[files]]
 file = "config/patpat/ignore_mob_list.txt"
@@ -87,6 +95,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/patpat/proximity_packet_servers_whitelist.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/rainstalker-reborn.json"
+hash = "a51f83b176c5d83b855ee2dd0a2327478e8687fd8aa8205a0efb0bddd02c0305"
 
 [[files]]
 file = "config/sleep_through_the_night.json"
@@ -117,6 +129,10 @@ file = "config/spyglass-improvements/settings.json"
 hash = "dcbbfd9a7aa8da6cb0198784922a55828307f3b8a3ed2e97de0baa6fd99f79d6"
 
 [[files]]
+file = "config/thinair-server.toml"
+hash = "bcf5993eaed58448d669caacf5a6d166621f4831b872ede348ae554bb0fc72bc"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "d47082f5a54f42df940139b8b48ffcda9070b808af3225f2ce62482a59fc4e24"
 
@@ -127,6 +143,18 @@ hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
 [[files]]
 file = "config/watut-server.toml"
 hash = "9bd49ef71986e8b3cf0b58b7b9e9bcef2fcaa9d622fdd4267da73eff348eeafb"
+
+[[files]]
+file = "config/weeping_angels-client.toml"
+hash = "a6ef78a38c876e08265ec00d9415126a2dd301a0c381a508c8c5fcc3429d97af"
+
+[[files]]
+file = "config/weeping_angels-common.toml"
+hash = "01bcc331d25ee633a0183f858be9f5fc532509f1827135d0331eeffb601537b0"
+
+[[files]]
+file = "config/weeping_angels_spawns.json"
+hash = "37e1cb98e6e7879075866688260765319d8326510fc2d1a2bb61e881b2450bf1"
 
 [[files]]
 file = "icon.png"
@@ -175,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "ed4d28a5a76f85d45a1bdaeab40828f524199e41541f4504ca4719f373bb5c05"
-metafile = true
-
-[[files]]
-file = "mods/azurelib.pw.toml"
-hash = "1f7a9a0f8b6a52474771cc7b680821291625572e00d72a351f20b732f51bd922"
 metafile = true
 
 [[files]]
@@ -395,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere-fabric.pw.toml"
 hash = "fe13c35c779b5b8bce9c5e41d60a3ffdb8578e62857dab61afa71e376f901b4d"
-metafile = true
-
-[[files]]
-file = "mods/dark-waters.pw.toml"
-hash = "da30a288d8ed0b4d3564dc3ddc6a988cfa7b3d7362edc9b50a2bd114ac8007d0"
 metafile = true
 
 [[files]]
