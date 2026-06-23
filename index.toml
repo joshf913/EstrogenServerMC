@@ -61,6 +61,30 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "009d36524dae0a3e7aa4143105c11e26849ca81f0904e41a134bc990722e4f53"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "1853e53003793ac7e6e4dfc283792f54d35d48b317e71a413e32b484fc7d478c"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8a9c0403b385ca106d0c0b541ea2f2128bf39e3f9b05b342b176ca11834857a4"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "e04b7037f136ce7fb5e3d9a9412422484951ee1fb0f5d9f4ce9a1a6fd7960877"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "b3be4500746c7cb198d5ccc076b30b8f2d91f1003604c489db7833665b6b64f8"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "c993587fddea797699d0b097f2a898898603b64a370f13d30e2af69ccdeaca37"
+
+[[files]]
 file = "config/man.json"
 hash = "7d7690765c6dacdf57971c454244dc57caffa0cfc769e2bcadcb954019b37a75"
 
