@@ -272,6 +272,11 @@ hash = "7a8e91d65a6a8c5a025cca52c8e33630c9f1f6dfbcec9ff9977b2fae3aad7a35"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "84f06484c12f1322f6761fcbb43b12a2202ece777157b3025b3e3010016aef05"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "67ab8d43b45dbf8e2737717a38043f4e8da41ebb4891a278c639f27e07eab409"
 metafile = true
@@ -518,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ec903f0e7f34dc559acd4709abfd2edab1705984989c5227e6b2463d6d80e0ae"
+hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
 metafile = true
 
 [[files]]
@@ -544,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
+metafile = true
+
+[[files]]
+file = "mods/femboy-cream.pw.toml"
+hash = "fe63ac9b9ec4e2efbf6a1c5507c87b737023bf2ca6288c139a92195e0ef51f0e"
 metafile = true
 
 [[files]]
@@ -667,6 +677,11 @@ hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
 metafile = true
 
 [[files]]
+file = "mods/let-your-friend-eating!.pw.toml"
+hash = "f5310dc58c5402b2920e22ad523ed2146058f0d4aa60e983a91a0a4477029f68"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
@@ -779,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "01cab7c78328c2dadfc85d691c662241a459dd7c73c786754a41082fa3d09675"
+metafile = true
+
+[[files]]
+file = "mods/no-shield-delay.pw.toml"
+hash = "3540dbfa7e284617eec1dfae8ffa94c92e5fab8ba71b1bb595eacb5f7320c21f"
 metafile = true
 
 [[files]]

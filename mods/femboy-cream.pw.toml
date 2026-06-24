@@ -1,0 +1,13 @@
+name = "Femboy Cream"
+filename = "femboycream-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYAjJN2z/versions/79z6Eck7/femboycream-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "c4ceb610475be8a05f4f87c252ef7f0c9ec87d304997c9db262305573618248fe27293390decd1343160bab32dee8aff75953a0c8f17b6d519ccecb37e7234fc"
+
+[update]
+[update.modrinth]
+mod-id = "TYAjJN2z"
+version = "79z6Eck7"
