@@ -948,6 +948,11 @@ hash = "97927afe714a56b0b4b6605989c0526e78b1b261d4b6c3440b3c7fc9fc6cb0e3"
 metafile = true
 
 [[files]]
+file = "mods/simple-belt-lanterns.pw.toml"
+hash = "15a808dcac3a064074b22bde2ddf939883cb754cfce97abe5628b75078b15bdc"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bd7d696be623db6fbc8030b8afbdf933414394877cfffc145b5860d100f22920"
 metafile = true
