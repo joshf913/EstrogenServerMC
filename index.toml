@@ -169,6 +169,26 @@ file = "config/weeping_angels_spawns.json"
 hash = "37e1cb98e6e7879075866688260765319d8326510fc2d1a2bb61e881b2450bf1"
 
 [[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "4f3a533f0718c1aa58b8efb7274600f9d8a9120a49d0860c2841d997967073da"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "e36cd20ec3260b548d8fd12b69302fafa4b3adb7331e48c7e8ad76a17cdbb8f1"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "37722f5d1ceacdc87e8a29cd473f8674a83668cece7cf97f3afcba95604a50bc"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "d60d3bab7b6d33056142d19c6cc0460786f28e8967eeb4111e140c68dd43c8b2"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "74e0af7577aad9dd6b8661f097780b54ddffa327d8e4af5c4ebb44a241147765"
+
+[[files]]
 file = "icon.png"
 hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 
