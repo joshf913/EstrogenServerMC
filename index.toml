@@ -372,6 +372,11 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "32beb8524c228417dcfdecc0eceff7078749b08c72acccc51b3fad93a298bb8e"
 metafile = true
