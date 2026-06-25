@@ -50,7 +50,7 @@ hash = "0b2431db3cb298f65bc4f627a062b07dbaaf7d179bbb9fa0ee9ba24130ca34aa"
 
 [[files]]
 file = "config/cave_dweller.properties"
-hash = "c61697315aaf94697f4ac67f9e00c47a2e8254dcf9c75a114938dd16141197c0"
+hash = "7ff7c65192ee97bd8a845da66ea300c730aeb559071bb1a4ce7735fb5604fc6c"
 
 [[files]]
 file = "config/flowermimics.json5"
@@ -83,10 +83,6 @@ hash = "b3be4500746c7cb198d5ccc076b30b8f2d91f1003604c489db7833665b6b64f8"
 [[files]]
 file = "config/jade/usernamecache.json"
 hash = "c993587fddea797699d0b097f2a898898603b64a370f13d30e2af69ccdeaca37"
-
-[[files]]
-file = "config/man.json"
-hash = "7d7690765c6dacdf57971c454244dc57caffa0cfc769e2bcadcb954019b37a75"
 
 [[files]]
 file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
