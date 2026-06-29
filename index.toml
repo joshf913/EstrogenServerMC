@@ -908,6 +908,11 @@ hash = "34d3343ce70313217ec3d08ae3bd29a5904933b01795d3d2af6f23ca3056c298"
 metafile = true
 
 [[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "d7f20eaa93687d913a5a378a51964b34a77374f0b3961514b9f8715e9fe120bf"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "56772cec323001115bcd6a95226d6eb638a0bb883ca9c14c970e9f966ac787b6"
 metafile = true
